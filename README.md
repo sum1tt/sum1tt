@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a web dev project using MERN stack.<br>Learning on the go.
+Computer Science Engineer.<br>Learning on the go.
 
 
 ## 🌐 Socials:
